@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A student. Usually use Azure DevOps Service, Because the bad connection to github, home and college all.
+
 <!--
 **Fradeet/Fradeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
