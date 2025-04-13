@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 A student.
+
 [![Fradeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=fradeet)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
